@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "a2893649/pythongo-strategy-dev",
+  "name": "pythongo-strategy-dev",
+  "repository": "https://github.com/a2893649/pythongo-strategy-dev",
+  "category": "skill",
+  "description": {
+    "en": "A PythonGO live-trading strategy development skill: minimal-compliant skeleton, a static gate for 12 non-negotiable invariants, and module-layout templates. Encodes real incident-derived rules (precise termination-status matching, plus-or-minus 1e-9 hike tolerance, order-ownership filtering).",
+    "zh": "PythonGO 实盘策略开发技能：最小合规骨架、12 条不可动摇的不变量静态门禁与模块分解模板，固化自真实事故口径（报单终结状态精确匹配、抬价容差 +1e-9、订单归属过滤等）。"
+  },
+  "added": "2026-10-04"
+}
